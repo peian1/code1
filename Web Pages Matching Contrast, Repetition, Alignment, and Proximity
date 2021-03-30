@@ -1,0 +1,64 @@
+<html>
+<head>
+
+<style>
+body {background-color: 	#FFFF00
+h1 {font-size:50px;text-align:center ;color: #000000;font-family:"Times New Roman",Times,serif25;}
+h3 {color:#000000;font-family:Times New Roman;font-size:25px;}
+</style>
+<title> 
+Lecture 4
+</title>
+</head>
+<body>
+<h1>
+Web Pages Matching Contrast, Repetition, Alignment, and Proximity
+</h1>
+<br>
+
+<h3>
+<a href="https://www.dji.com/"><img src="https://cdn.discordapp.com/attachments/754121527062036601/766734137674694666/2020-10-16_11.47.18.png" style="width:450px;height:250px;margin-right:45px;float:left"></a>Contrast
+<ol>
+  <li>In there has different of color on the each box.</li>
+  <li>The color is make good looking on the porduct</li>
+  <li>Is has more color , so is not to keep the same</li>
+</ol>
+</h3>
+<br>
+<br>
+<br>
+<br>
+
+<h3>
+<a href="https://www.amazon.com/"><img src="https://cdn.discordapp.com/attachments/754121527062036601/766904482428354620/9.png" style="width:450px;height:200px;margin-right:45px;float:left"></a>Alignment
+<ol>
+  <li>The each product has a striaght line.</li>
+  <li>All the product is seperated by the different categories.</li>
+  <li>The product all have spaces between each of them.</li>
+</ol>
+</h3>
+<br>
+<br>
+<br>
+<h3>
+<a href="https://www.apple.com/ipad-air/"><img src="https://cdn.discordapp.com/attachments/754121527062036601/766906245235605534/10.png" style="width:450px;height:220px;margin-right:45px;float:left"></a>Repetition
+<ol>
+  <li>The things stay on one place.</li>
+  <li>If you go down for more detail, if you go up and go down it keeps repeating.</li>
+  <li>This can keep the page look nice.</li>
+</ol>
+</h3>
+<br>
+<br>
+<br>
+<h3>
+<a href="https://www.youtube.com/"><img src="https://cdn.discordapp.com/attachments/754121527062036601/766908136287240192/12.png" style="width:450px;height:250px;margin-right:45px;float:left"></a>Proximity
+<ol>
+  <li>All the of video are together.</li>
+  <li>Everything is one one place.</li>
+  <li>You can see all the video you want to see, or the one you don't like.</li>
+</ol>
+</h3>
+<br>
+</body>
+</html>
